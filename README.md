@@ -3,13 +3,10 @@
 </p>
 
 # Info
-Packet Client is an MCBE Utility mod made by: Packet, Deq, Swed, NRG and Founder
 
-Packet Client is a fork of the Horion Client
+Isolate Anticheat is a MC:BE Anticheat that has multiple flags to really catch those cheaters, including (dream inserts flags)
 
 
 ## Credits
 
-The original Horion developers
-
-Steve's Noob#2585
+The packet devs for having open source site lmao
