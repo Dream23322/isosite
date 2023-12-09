@@ -29,8 +29,8 @@ body {
     gap: 20px;
 }
 
-.download,
-.discord {
+a.download,
+a.discord {
     padding: 10px 20px;
     background-color: #6C82CC;
     color: #fff;
@@ -40,8 +40,8 @@ body {
     cursor: pointer;
 }
 
-.download:hover,
-.discord:hover {
+a.download:hover,
+a.discord:hover {
     background-color: #5F71AD;
 }
 
