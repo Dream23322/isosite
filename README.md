@@ -4,7 +4,7 @@
 
 # Info
 
-Isolate Anticheat is a MC:BE Anticheat that has multiple flags to really catch those cheaters, including (dream inserts flags)
+Isolate Anticheat is a MC:BE Anticheat that is better than all the others, trust.
 
 
 ## Credits
